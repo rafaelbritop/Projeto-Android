@@ -1,0 +1,163 @@
+@media screen and (max-width:768px) {
+
+    main {
+    background-image: url(../imagens/background_guaraexpress.JPG);
+    background-size: 80%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    }
+
+    .imagens {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .taxi img {
+        margin-top: 2em;
+        width: 50%;
+    }
+
+    .motoboy img {
+        margin-top: 2em;
+        width: 50%;
+    }
+
+    .fiorino img {
+        margin-top: 2em;
+        width: 50%;
+    }
+
+    .atend img {
+        margin-top: 2em;
+        width: 50%;
+    }
+
+    .text_mobile {
+        font-size: 20px;
+    }
+
+    .whats {
+        position: fixed;
+        bottom: 5px;
+        right: 12px;
+        z-index: 9999;
+        width: 45px;
+    }
+
+    .tabela_invertida {
+        display: flex;
+        flex-direction: column-reverse;
+        text-align: center;
+    }
+
+    .linha1,
+    .linha2,
+    .linha3,
+    .linha4 {
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+    .atendimento p {
+        text-align: justify;
+    }
+
+    main img {
+        width: 50%;
+    }
+
+    img.imagem {
+        width: 50%;
+    }
+
+    .slide {
+        width: 100vw;
+    }
+
+    .clientes {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .agc img {
+        width: 45%;
+        margin: 5% 20% 0% 25%;
+    }
+
+    .megafarma img {
+        width: 45%;
+        margin: 10% 20% 0% 25%;
+    }
+
+    .santa-rosa img {
+        width: 50%;
+        margin: 15% 0% 0% 22%;
+    }
+
+    .polipet img {
+        width: 45%;
+        margin: 12% 20% 0% 25%;
+    }
+
+    .bachema img {
+        width: 50%;
+        margin: 10% 20% 0% 22%;
+    }
+
+    .pharmaexpress img {
+        width: 55%;
+        margin: 15% 0% 0% 22%;
+    }
+
+    .calderys img {
+        width: 60%;
+        margin: 7% 0% 0% 19%;
+    }
+
+    section.gif {
+        margin-top: 20%;
+        margin-bottom: 10%;
+        text-align: center;
+    }
+
+    .face img {
+        margin: -10px 0 0 0;
+    }
+
+    img.insta {
+        margin-top: 1em;
+        margin-left: 25%;
+    }
+
+    img.insta1 {
+        margin-top: 1em;
+        margin-left: 25%;
+    }
+
+    img.banner {
+        width: 100%;
+    }
+
+    .whats_guara {
+        text-align: center;
+        margin-top: 2em;
+        margin-left: 2em;
+    }
+
+    .gmail {
+        text-align: center;
+        margin-top: 2em;
+        margin-left: 2em;
+   }
+
+    .insta_guara {
+        text-align: center;
+        margin-top: 2em;
+        margin-left: 2em;
+    }
+}
